@@ -1,0 +1,20 @@
+.title{
+    width: 100%;
+    margin-top: 0;
+    font-weight: bold;
+}
+
+span{
+    font-size: 12px;
+    color: black;
+}
+
+body{
+    background-size: cover;
+}
+
+canvas{
+    background-color: white;
+    border-style: ridge;
+    border-radius: 18px;
+}
